@@ -13,4 +13,4 @@ The steps that form a CI/CD pipeline are distinct subsets of tasks grouped into 
 ![abc](./cicd1.PNG)
 
 
-![](cicd2.png)
+![](./cicd2.PNG)
